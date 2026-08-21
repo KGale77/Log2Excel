@@ -1,0 +1,21 @@
+# Archivos temporales de PyInstaller
+build/
+dist/
+*.spec
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
