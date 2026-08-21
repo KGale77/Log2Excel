@@ -23,15 +23,14 @@ Esta aplicación cuenta con una interfaz web moderna, responsiva y con modo oscu
 
 El repositorio está estructurado para su uso directo:
 
-- **[`main/`](./main)**: Contiene el ejecutable final para Windows.
-  - **[`Log2Excel.exe`](./main/Log2Excel.exe)**: Ejecutable portable principal.
+- **[`Log2Excel.exe`](./Log2Excel.exe)**: Ejecutable portable principal para Windows en la raíz del repositorio.
 - **`.gitignore`**: Configuración para evitar subir archivos basura o temporales de compilación.
 
 ---
 
 ## 🛠️ Cómo Usar
 
-1. Descarga la carpeta **`main`** o descarga únicamente el archivo **`Log2Excel.exe`**.
+1. Descarga el archivo **`Log2Excel.exe`** directamente del repositorio.
 2. Abre **`Log2Excel.exe`** en tu máquina con Windows.
 3. Elige el delimitador que utiliza tu archivo log (por defecto `;`).
 4. Arrastra tu archivo `.log` o `.txt` a la zona de carga (o haz clic para buscarlo).
